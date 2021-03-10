@@ -21,6 +21,8 @@ body {
   flex: 1;
   padding-left: 70px;
   cursor: pointer;
+  text-decoration: none;
+  color: inherit;
 }
 
 .nav__right {
@@ -31,6 +33,8 @@ body {
 
 .nav__right__text {
   padding: 0px 70px 0px 0px;
+  text-decoration: none;
+  color: inherit;
 }
 
 @media screen and (max-width: 768px) {

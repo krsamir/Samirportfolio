@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <div>
-      <div className="about">
+      <div className="about" id="about">
         <div className="about__heading">
           <div style={{ borderBottom: "4px solid #a7c5eb" }}>About</div>
         </div>

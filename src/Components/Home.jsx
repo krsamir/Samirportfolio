@@ -3,7 +3,7 @@ import profile from "../Assets/images/profile.jfif";
 export default function Home() {
   return (
     <div>
-      <div className="home">
+      <div className="home" id="home">
         <div className="home__left">
           <div>Hi,</div>
           <div style={{ display: "flex", flexDirection: "row" }}>
