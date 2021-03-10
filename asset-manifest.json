@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Samirportfolio/static/css/main.b0730892.chunk.css",
-    "main.js": "/Samirportfolio/static/js/main.69f8987f.chunk.js",
-    "main.js.map": "/Samirportfolio/static/js/main.69f8987f.chunk.js.map",
+    "main.css": "/Samirportfolio/static/css/main.ad57c4c8.chunk.css",
+    "main.js": "/Samirportfolio/static/js/main.9458147d.chunk.js",
+    "main.js.map": "/Samirportfolio/static/js/main.9458147d.chunk.js.map",
     "runtime-main.js": "/Samirportfolio/static/js/runtime-main.cdefe491.js",
     "runtime-main.js.map": "/Samirportfolio/static/js/runtime-main.cdefe491.js.map",
     "static/js/2.65a8203c.chunk.js": "/Samirportfolio/static/js/2.65a8203c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.1ac93c93.chunk.js": "/Samirportfolio/static/js/3.1ac93c93.chunk.js",
     "static/js/3.1ac93c93.chunk.js.map": "/Samirportfolio/static/js/3.1ac93c93.chunk.js.map",
     "index.html": "/Samirportfolio/index.html",
-    "static/css/main.b0730892.chunk.css.map": "/Samirportfolio/static/css/main.b0730892.chunk.css.map",
+    "static/css/main.ad57c4c8.chunk.css.map": "/Samirportfolio/static/css/main.ad57c4c8.chunk.css.map",
     "static/js/2.65a8203c.chunk.js.LICENSE.txt": "/Samirportfolio/static/js/2.65a8203c.chunk.js.LICENSE.txt",
     "static/media/profile.4aeb8709.jfif": "/Samirportfolio/static/media/profile.4aeb8709.jfif"
   },
   "entrypoints": [
     "static/js/runtime-main.cdefe491.js",
     "static/js/2.65a8203c.chunk.js",
-    "static/css/main.b0730892.chunk.css",
-    "static/js/main.69f8987f.chunk.js"
+    "static/css/main.ad57c4c8.chunk.css",
+    "static/js/main.9458147d.chunk.js"
   ]
 }
